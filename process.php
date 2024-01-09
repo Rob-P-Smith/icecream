@@ -11,6 +11,10 @@
 <h1>Thank you for your order!</h1>
 
 <?php
+//turn on error reporting
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+
 //For testing purposes only
 echo "<pre>";
 var_dump($_POST);

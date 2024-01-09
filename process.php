@@ -8,9 +8,9 @@
     <title>Ice Cream Order Summary</title>
 </head>
 <body>
-<h1>Thank you for your order.</h1>
-</body>
-</html>
 <?php
 var_dump($_POST);
 ?>
+<h1>Thank you for your order.</h1>
+</body>
+</html>

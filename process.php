@@ -12,4 +12,4 @@
 </body>
 </html>
 <?php
-echo var_dump($POST);
+echo var_dump($_POST);

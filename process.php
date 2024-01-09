@@ -9,7 +9,9 @@
 </head>
 <body>
 <?php
+echo "<pre>";
 var_dump($_POST);
+echo "</pre>";
 ?>
 <h1>Thank you for your order.</h1>
 </body>

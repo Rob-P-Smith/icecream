@@ -38,10 +38,11 @@ $total = $sub_total+$tax;
 //Print a summary
 echo "<p>$scoops scoops</p>";
 echo "<p>Flavors: $flavorString</p>";
+echo "<p>Cone: $cone</p>";
 echo "<p>SubTotal: $sub_total</p>";
 echo "<p>Tax: $tax</p>";
 echo "<p>Total: $total</p>";
-echo "<p>Cone: $cone</p>";
+
 
 
 ?>
